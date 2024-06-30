@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "b77e8f9768f7365e",
+    "type": "split",
+    "children": [
+      {
+        "id": "52558771bdec16c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe3d2d51c58d0018",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Useful UI VE/Tasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "id": "5f655ad08af1fd35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Useful UI VE/AssetStore texts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f18af31b3a3313ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Useful UI VE/ChangeL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0735f7be75b03c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "24be95fab07483ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55f4c48e1052e6f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "557c131810f39cd8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cce6c402c754fce8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5239dcb4734ddd5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b53cfaa12feb4d2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83d4fea95c83dfa8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Useful UI VE/ChangeL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e35f4a7e9049b4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Useful UI VE/ChangeL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25ef611156ca282c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ce4613596087b0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Useful UI VE/ChangeL.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "55f4c48e1052e6f8",
+  "lastOpenFiles": [
+    "Untitled",
+    "Useful UI VE/AssetStore texts.md",
+    "Useful UI VE/ChangeL.md",
+    "Useful UI VE/Tasks.md",
+    "Untitled.canvas",
+    "Useful UI VE",
+    "Welcome.md"
+  ]
+}
