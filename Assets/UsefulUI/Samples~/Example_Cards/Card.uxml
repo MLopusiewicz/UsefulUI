@@ -1,0 +1,11 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <NavigationPanelVE focusable="true" RequiresAccept="true" Side="block" Navigation="Horizontal" Overflow="loop" name="CardRoot" style="background-color: rgba(149, 64, 64, 0.58); flex-grow: 1; padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; flex-direction: column;">
+        <ui:Label text="This is a card" parse-escape-sequences="true" display-tooltip-when-elided="true" />
+        <ui:VisualElement style="width: 100%; background-color: rgb(255, 255, 255); height: 209px;" />
+        <ui:VisualElement name="VisualElement" style="flex-grow: 1; flex-direction: row; justify-content: space-around; align-items: center;">
+            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Button_1" />
+            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Button_2" />
+            <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Button_3" />
+        </ui:VisualElement>
+    </NavigationPanelVE>
+</ui:UXML>

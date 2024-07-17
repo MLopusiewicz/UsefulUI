@@ -1,0 +1,11 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Template name="Card" src="project://database/Assets/Examples/Example_Cards/Card.uxml?fileID=9197481963319205126&amp;guid=9b863b1a9b2bd5347a0cc352f49dc0ef&amp;type=3#Card" />
+    <Style src="project://database/Assets/Examples/Navigation/NavigationExample_Styles.uss?fileID=7433441132597879392&amp;guid=9ac1b027eeee31043b5c4f6f8e840eb6&amp;type=3#NavigationExample_Styles" />
+    <NavigationPanelVE name="Root" Overflow="loop" Entry="lastItem" RequiresAccept="false" style="flex-grow: 1; flex-direction: row;">
+        <ui:VisualElement style="flex-grow: 1; flex-direction: row; height: 398px; justify-content: space-between;">
+            <ui:Instance template="Card" name="Card" />
+            <ui:Instance template="Card" name="Card" />
+            <ui:Instance template="Card" name="Card" />
+        </ui:VisualElement>
+    </NavigationPanelVE>
+</ui:UXML>

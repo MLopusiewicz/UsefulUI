@@ -1,0 +1,24 @@
+{
+  "name": "com.lonetower.statemachineframework",
+  "version": "0.0.1-alpha",
+  "displayName": "State Machine Framework",
+  "description": "Light and simple State Machine Framework with substates",
+  "unity": "2022.3",
+  "documentationUrl": "https://github.com/MLopusiewicz/StateMachineFramework/blob/master/Assets/StateMachineFramework/README.md",
+  "changelogUrl": "https://github.com/MLopusiewicz/StateMachineFramework/blob/master/Assets/StateMachineFramework/CHANGELOG.md",
+  "licensesUrl": "https://github.com/MLopusiewicz/StateMachineFramework/blob/master/Assets/StateMachineFramework/LICENSE.md",
+  "dependencies": {},
+  "keywords": [
+    "State",
+    "Machine",
+    "Framework",
+    "State Machine",
+    "State Machine Framework"
+  ],
+  "category": "editor extensions",
+  "author": {
+    "name": "LoneTower",
+    "email": "bananozuar@gmail.com",
+    "url": "lonetower.studio"
+  }
+}

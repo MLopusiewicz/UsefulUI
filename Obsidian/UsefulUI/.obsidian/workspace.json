@@ -41,11 +41,17 @@
             "id": "f18af31b3a3313ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Useful UI VE/ChangeL.md",
-                "mode": "source",
-                "source": false
+                "file": "Useful UI VE/Tasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -116,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful UI VE/ChangeL.md",
+                "file": "Useful UI VE/Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful UI VE/ChangeL.md",
+                "file": "Useful UI VE/Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful UI VE/ChangeL.md"
+                "file": "Useful UI VE/Tasks.md"
               }
             }
           }
@@ -178,12 +184,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "55f4c48e1052e6f8",
+  "active": "f18af31b3a3313ea",
   "lastOpenFiles": [
-    "Untitled",
-    "Useful UI VE/AssetStore texts.md",
-    "Useful UI VE/ChangeL.md",
+    "Useful UI VE/Changelog.md",
     "Useful UI VE/Tasks.md",
+    "Useful UI VE/AssetStore texts.md",
+    "Untitled",
     "Untitled.canvas",
     "Useful UI VE",
     "Welcome.md"
