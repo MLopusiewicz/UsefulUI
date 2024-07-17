@@ -1,12 +1,12 @@
 {
-  "name": "com.lonetower.statemachineframework",
+  "name": "com.lonetower.usefului",
   "version": "0.0.1-alpha",
-  "displayName": "State Machine Framework",
-  "description": "Light and simple State Machine Framework with substates",
+  "displayName": "Useful ui",
+  "description": "Useful ui elements for UI toolkit",
   "unity": "2022.3",
-  "documentationUrl": "https://github.com/MLopusiewicz/StateMachineFramework/blob/master/Assets/StateMachineFramework/README.md",
-  "changelogUrl": "https://github.com/MLopusiewicz/StateMachineFramework/blob/master/Assets/StateMachineFramework/CHANGELOG.md",
-  "licensesUrl": "https://github.com/MLopusiewicz/StateMachineFramework/blob/master/Assets/StateMachineFramework/LICENSE.md",
+  "documentationUrl": "https://github.com/MLopusiewicz/UsefulUI/blob/master/Assets/UsefulUI/README.md",
+  "changelogUrl": "https://github.com/MLopusiewicz/UsefulUI/blob/master/Assets/UsefulUI/CHANGELOG.md",
+  "licensesUrl": "https://github.com/MLopusiewicz/UsefulUI/blob/master/Assets/UsefulUI/LICENSE.md",
   "dependencies": {},
   "keywords": [
     "State",
