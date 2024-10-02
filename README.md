@@ -1,3 +1,3 @@
 ```
-https://github.com/MLopusiewicz/UsefulUI.git?path=/Assets/UsefulUI/
+https://github.com/MLopusiewicz/UsefulUI.git?path=/Assets/UsefulUI/#release
 ```
