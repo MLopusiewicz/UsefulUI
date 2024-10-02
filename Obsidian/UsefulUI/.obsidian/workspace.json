@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "52558771bdec16c6",
+        "id": "1109334fa9fe0910",
         "type": "tabs",
         "children": [
           {
-            "id": "fe3d2d51c58d0018",
+            "id": "2a56ca939ca1afd2",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Useful UI VE/Tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              }
-            }
-          },
-          {
-            "id": "5f655ad08af1fd35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Useful UI VE/AssetStore texts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f18af31b3a3313ea",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Useful UI VE/Tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful UI VE/Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful UI VE/Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Useful UI VE/Tasks.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -184,11 +139,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f18af31b3a3313ea",
+  "active": "2a56ca939ca1afd2",
   "lastOpenFiles": [
-    "Useful UI VE/Changelog.md",
     "Useful UI VE/Tasks.md",
     "Useful UI VE/AssetStore texts.md",
+    "Useful UI VE/Changelog.md",
     "Untitled",
     "Untitled.canvas",
     "Useful UI VE",

@@ -7,7 +7,7 @@ public class StartingFocus : MonoBehaviour {
 
     void Start() {
         GetComponent<UIDocument>().rootVisualElement.Q(name: entryPoint).Focus();
-        GetComponent<UIDocument>().rootVisualElement.Query<Button>().ForEach(x => x.clicked += () => Debug.Log($"c: {x.name}"));
+        //GetComponent<UIDocument>().rootVisualElement.Query<Button>().ForEach(x => x.clicked += () => Debug.Log($"c: {x.name}"));
     }
 
     void Update() {

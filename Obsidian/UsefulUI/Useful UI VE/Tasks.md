@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## To do
 
-- [ ] Closest entry point
 
 
 ## To test
@@ -17,7 +16,11 @@ kanban-plugin: board
 
 
 
+***
 
+## Archive
+
+- [ ] Closest entry point
 
 %% kanban:settings
 ```
